@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ręczny prom „Wydra”</title>
+  <desc id="desc">Prosty rysunek promu z pokładem i kabiną, płynącego po rzece pod stalową liną.</desc>
+  <rect width="900" height="420" fill="#eaf5fb"/>
+  <circle cx="745" cy="75" r="38" fill="#f4cf69"/>
+  <path d="M0 210 Q130 185 260 210 T520 210 T900 205 V420 H0Z" fill="#79b9d2"/>
+  <path d="M0 260 Q150 235 300 260 T600 260 T900 250" fill="none" stroke="#d9f1f7" stroke-width="8"/>
+  <path d="M0 315 Q150 290 300 315 T600 315 T900 305" fill="none" stroke="#d9f1f7" stroke-width="6"/>
+  <path d="M0 80 L900 80" stroke="#4d5961" stroke-width="5"/>
+  <path d="M0 80 L900 80" stroke="#c4cbd0" stroke-width="2"/>
+  <path d="M230 80 L230 230 M670 80 L670 230" stroke="#59656d" stroke-width="4"/>
+  <path d="M185 250 L710 250 L665 325 L245 325Z" fill="#4b7890" stroke="#233f50" stroke-width="6"/>
+  <path d="M205 250 L690 250 L655 292 L250 292Z" fill="#c28c4e" stroke="#714b28" stroke-width="4"/>
+  <rect x="500" y="165" width="115" height="82" fill="#f4f0df" stroke="#233f50" stroke-width="5"/>
+  <rect x="518" y="180" width="35" height="35" fill="#9ed3e5" stroke="#233f50" stroke-width="3"/>
+  <rect x="565" y="180" width="33" height="35" fill="#9ed3e5" stroke="#233f50" stroke-width="3"/>
+  <path d="M190 245 L190 205 L705 205 L705 245" fill="none" stroke="#e7e9e8" stroke-width="8"/>
+  <path d="M210 205 L210 245 M275 205 L275 250 M340 205 L340 250 M405 205 L405 250 M470 205 L470 250 M635 205 L635 250 M690 205 L690 245" stroke="#e7e9e8" stroke-width="5"/>
+  <circle cx="310" cy="260" r="17" fill="none" stroke="#e45b3f" stroke-width="8"/>
+  <circle cx="610" cy="260" r="17" fill="none" stroke="#e45b3f" stroke-width="8"/>
+  <path d="M0 355 Q120 330 240 355 T480 355 T720 355 T900 350" fill="none" stroke="#4c9ab8" stroke-width="4"/>
+  <path d="M0 390 Q120 365 240 390 T480 390 T720 390 T900 385" fill="none" stroke="#4c9ab8" stroke-width="4"/>
+  <text x="32" y="45" font-family="serif" font-size="25" fill="#243c4a">Przeprawa promowa „Wydra”</text>
+</svg>
